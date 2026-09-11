@@ -1,7 +1,7 @@
 ## 🧑🏽‍💻 Gabriel Andrade Carvalho
 
-Gabriel Carvalho | 18 anos
-Estudante de Engenharia de Software – 3º semestre
+Gabriel Carvalho | 19 anos
+Estudante de Engenharia de Software – 4º semestre
 Conhecimentos em HTML, CSS, C, Java e JavaScript
 Em busca da primeira oportunidade na área 🚀
 
