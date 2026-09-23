@@ -39,16 +39,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![DBeaver](https://img.shields.io/badge/DBeaver-382923?style=for-the-badge&logo=dbeaver&logoColor=white)
 
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielACarvalho&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielACarvalho&layout=compact&theme=dark&hide=html,css"/>
-
-</div>
 
 ---
 
